@@ -1,2 +1,2 @@
 # MSME-Garments
-Problem faced by MSME garmentexporters 
+Problems faced by MSME garment exporters 
